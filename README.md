@@ -51,7 +51,7 @@ I'm a passionate **DevOps Engineer** and **Linux Enthusiast** committed to build
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/azure/azure-icon.svg" alt="Azure" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="50" height="50"/>
 
   <!-- CI/CD -->
@@ -74,7 +74,7 @@ I'm a passionate **DevOps Engineer** and **Linux Enthusiast** committed to build
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=emiresh&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats"/>
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emiresh&theme=dark&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=emiresh&theme=dark&hide_border=false" alt="GitHub Streak"/>
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emiresh&theme=dark&hide_border=false&layout=compact" alt="Top Languages"/>
 </p>
