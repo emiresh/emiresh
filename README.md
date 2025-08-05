@@ -1,72 +1,81 @@
 <h1 align="center">Hi 👋, I'm Iresh</h1>
-<h3 align="center">🚀 DevOps Engineer | 🔒 InfoSec MSc | 🐧 Linux Enthusiast</h3>
 
 <p align="center">
-  <a href="https://iresh.xyz" target="_blank">🌐 Website</a> |
-  <a href="https://www.linkedin.com/in/emiresh/" target="_blank">LinkedIn</a> |
-  <a href="https://github.com/emiresh" target="_blank">GitHub</a> |
-  <a href="https://web.facebook.com/ireshek" target="_blank">Facebook</a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00F0FF&size=26&center=true&vCenter=true&width=700&height=60&lines=DevOps+Engineer;Linux+Enthusiast;Site+Reliability+Engineer;Cloud+and+Infra+Specialist;Observability+Advocate">
+</a>
 </p>
-
----
-
-## 🧑‍💻 About Me
-
-- 🎓 Master's in Information Security – UCSC  
-- 🎓 BICT Honours – University of Sri Jayewardenepura  
-- 🧠 Passionate about Linux, DevOps, and Cloud  
-- ✍️ I blog, speak at tech events, and contribute to open-source  
-- 🧑‍🏫 Experience across **DevOps, SRE, and Infrastructure**
-
----
-
-## 🛠️ Skills
-
-- ⚙️ Windows/Linux Administration – 80%  
-- 📊 IT Infra Monitoring – 90%  
-- 🧩 Problem Solving – 90%  
-- ☁️ SRE & DevOps – 80%
-
----
-
-## 🚀 Tech Stack & Tools
-
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="Azure" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elastic Stack" width="50" height="50"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=emiresh&show_icons=true&theme=tokyonight" alt="emiresh stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emiresh&layout=compact&theme=tokyonight" alt="emiresh top langs"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=emiresh&theme=dark&hide_border=false" alt="GitHub Streak"/>
+<img src="https://komarev.com/ghpvc/?username=emiresh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
----
+🙋‍♂️ About Me
+I'm a passionate DevOps Engineer and Linux Enthusiast committed to building scalable, observable, and reliable systems. I continuously evolve by embracing new technologies and contributing to the tech community through blogs, events, and collaborative projects.
 
-## 📫 Connect With Me
+🔭 Currently working as a DevOps Engineer at Next 🌱 Exploring advanced topics in SRE, Observability, Kubernetes, and Security Automation 💬 Ask me about CI/CD, Linux, Monitoring, Docker, K8s, Prometheus, Grafana, and Cloud 🌐 Portfolio: iresh.xyz
 
-- 🌐 Website: [iresh.xyz](https://iresh.xyz)  
-- 💼 LinkedIn: [linkedin.com/in/emiresh](https://linkedin.com/in/emiresh)  
-- 🐙 GitHub: [github.com/emiresh](https://github.com/emiresh)  
-- 📘 Facebook: [facebook.com/ireshek](https://web.facebook.com/ireshek)
+📫 Email: ireshek@gmail.com ---
 
----
+🧑‍🎓 Education
+🎓 Master of Information Security (MIS) – UCSC (2024–Present)
 
-> 💡 *Regularly updating my DevOps & InfoSec knowledge to stay ahead and share with the tech community.*
+🎓 BICT Honours Degree – University of Sri Jayewardenepura (2019–2023)
+
+🏅 Diploma in Computer Network Admin – LAVTC (2018–2019)
+
+🏫 Technology Stream – S.W.R.D Bandaranayake National School (2009–2017)
+
+💼 Work Experience
+DevOps Engineer – Next (2024 – Present)
+
+SRE – Sysco LABS (2023 – 2024)
+
+DevOps Engineer – Wiley (2022 – 2023)
+
+Infrastructure Analyst – HCLTech (2022)
+
+RedHat Lab Assistant – WinIT Solutions (2020 – 2021)
+
+Computer Service Trainee – Metropolitan Computers (2018 – 2019)
+
+🛠️ DevOps | SRE | Observability Tools
+<p align="center">
+<!-- Cloud & Containers -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="50" height="50"/>
+
+<!-- CI/CD -->
+
+<img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub Actions" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="50" height="50"/>
+
+<!-- Monitoring & Observability -->
+
+<img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" alt="Datadog" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elastic Stack" width="50" height="50"/>
+</p>
+
+📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=emiresh&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats"/>
+<br><br>
+<img src="https://streak-stats.demolab.com/?user=emiresh&theme=dark" alt="GitHub Streak"/>
+<br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emiresh&theme=dark&hide_border=false&layout=compact" alt="Top Languages"/>
+</p>
+
+🌐 Connect with Me
+<p align="center">
+<a href="https://www.linkedin.com/in/emiresh/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="40" /></a>
+<a href="https://web.facebook.com/ireshek" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40" width="40" /></a>
+<a href="https://github.com/emiresh" target="_blank"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="40" width="40" /></a>
+<a href="https://iresh.xyz" target="_blank"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" height="40" width="40" /></a>
+</p>
