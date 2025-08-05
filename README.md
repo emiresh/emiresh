@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=emiresh&label=Profile%20views&color=0e75b6&style=flat" alt="emiresh" />
+  <img src="https://komarev.com/ghpvc/?username=emiresh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -72,11 +72,11 @@ I'm a passionate **DevOps Engineer** and **Linux Enthusiast** committed to build
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emiresh&theme=dark&show_icons=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=emiresh&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats"/>
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emiresh&theme=dark&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emiresh&theme=dark&hide_border=false" alt="GitHub Streak"/>
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emiresh&theme=dark&hide_border=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emiresh&theme=dark&hide_border=false&layout=compact" alt="Top Languages"/>
 </p>
 
 ---
@@ -84,8 +84,8 @@ I'm a passionate **DevOps Engineer** and **Linux Enthusiast** committed to build
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/emiresh/" target="_blank"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" height="50" width="50" /></a>
-  <a href="https://web.facebook.com/ireshek" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="50" width="50" /></a>
-  <a href="https://github.com/emiresh" target="_blank"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="50" width="50" /></a>
-  <a href="https://iresh.xyz" target="_blank"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" height="50" width="50" /></a>
+  <a href="https://www.linkedin.com/in/emiresh/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="40" /></a>
+  <a href="https://web.facebook.com/ireshek" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40" width="40" /></a>
+  <a href="https://github.com/emiresh" target="_blank"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="40" width="40" /></a>
+  <a href="https://iresh.xyz" target="_blank"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" height="40" width="40" /></a>
 </p>
